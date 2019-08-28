@@ -1,4 +1,4 @@
-package Ejercicio2;
+package Ejercicio21;
 
 public class Administrativo extends Empleado {
 

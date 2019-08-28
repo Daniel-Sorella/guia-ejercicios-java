@@ -1,16 +1,10 @@
-package Ejercicio2;
+package Ejercicio21;
 
-import Ejercicio2.Administrativo;
-import Ejercicio2.Empleado;
-import Ejercicio2.Vendedor;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Objects;
-
-import static org.testng.Assert.*;
 
 public class EmpleadoTest {
 
