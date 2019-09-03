@@ -16,7 +16,4 @@ public class TicketTest {
         ticket = new Ticket(1, new Date());
         Item item = new Item("Coca" , 1 , 70);
     }
-
-    @Test
-    public void
 }

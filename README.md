@@ -16,7 +16,7 @@
 
 - [3. Colecciones](#3-colecciones)
     - [3.1 - Ticket](#31---ticket).
-    - [3.2 - Empresas y empleados](#32---empresa-empleado).
+    - [3.2 - Empresas y empleados](#Ejercicio32---empresa-empleado).
     - [3.3 - Alumnos y asignaturas](#33---alumno-asignatura).
     - [3.4 - Cuenta bancaria](./04_cuenta_bancaria/).
     - [3.5 - Personas](./05_personas/).
