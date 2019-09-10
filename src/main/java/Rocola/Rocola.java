@@ -7,7 +7,11 @@ import java.util.stream.Collectors;
 public class Rocola {
     private List<Disco> discos;
 
+    public Rocola(List<Disco> discos) {
+        this.discos = discos;
+    }
+
     public List<Disco> listaDeDiscosDisponibles() {
-        discos.stream().flatMap(d -> d.getCanciones()).collect(Collectors.toList());
+        return discos;
     }
 }

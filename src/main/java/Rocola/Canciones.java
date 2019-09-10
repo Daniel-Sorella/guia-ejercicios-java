@@ -11,7 +11,7 @@ public class Canciones {
 
     private List<Disco> listaDeDiscos;
 
-    public Canciones(String titulo, float duracion, String autor) {
+    public Canciones(String titulo, float duracion, String autor,Generos genero) {
         this.titulo = titulo;
         this.duracion = duracion;
         this.autor = autor;
